@@ -1,0 +1,80 @@
+{
+  "name": "MONAD",
+  "keywords": [
+    "eth",
+    "monad",
+    "defi"
+  ],
+  "timestamp": "2025-05-05T05:05:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 10143,
+      "address": "0xdAA587d25Cd67E18F7f041381B0c3c5c61dd496B",
+      "name": "USDm",
+      "symbol": "USD Monad",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/image_1751771554115_j92s7t.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
+      "address": "0xd0B8e0f38ca8a81ab94aE2D462235e2D377F6A3a",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/usdc.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
+      "address": "0x4409309402410dF8E9f4F3d097A50c9aE8d13055",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/usdt_qpvg08.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
+      "address": "0x9352e90374f273064D8E48123f1d99333E2576B8",
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/usdc.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
+      "address": "0xe22512a887179718F6F28b8599154db3Bea8100b",
+      "name": "Moyaki",
+      "symbol": "YAKI",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/yaki_wa75gy.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
+      "address": "0x11d860F8f4bcb530EaD90C54d2e5FB1e0C437DDB",
+      "name": "Factory Max",
+      "symbol": "MAX",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/Monad/FactoryMax.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
+      "address": "0xe34ca093a8ADA1a37E36CCB6331c935378d4B38D",
+      "name": "Factory",
+      "symbol": "FCTRY",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/factory.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
+      "address": "0xadD0002DdcED34Cef7Cb50241a97b01D3DC860Fb",
+      "name": "Eclipse",
+      "symbol": "ES",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/image_1750571882814_osg0a2.png",
+      "decimals": 18
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 7
+  }
+}
