@@ -20,7 +20,7 @@
       "address": "0xd0B8e0f38ca8a81ab94aE2D462235e2D377F6A3a",
       "name": "Bridged USDC",
       "symbol": "USDC.e",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/usdc.png",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/USDC_dtuf3m.png",
       "decimals": 18
     },
     {
@@ -36,7 +36,7 @@
       "address": "0x9352e90374f273064D8E48123f1d99333E2576B8",
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/MegaETH/usdc.png",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/USDC_dtuf3m.png",
       "decimals": 18
     },
     {
@@ -52,7 +52,7 @@
       "address": "0x11d860F8f4bcb530EaD90C54d2e5FB1e0C437DDB",
       "name": "Factory Max",
       "symbol": "MAX",
-      "logoURI": "https://raw.githubusercontent.com/furidngrt/DexSwap/refs/heads/master/Monad/FactoryMax.png",
+      "logoURI": "https://raw.githubusercontent.com/byteonchain/tokenlist/refs/heads/main/Monad/FactoryMax.png",
       "decimals": 18
     },
     {
