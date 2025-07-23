@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 10143,
+      "address": "0x8943eC46D62243E79e7E661Df7443a971b05Ea85",
+      "name": "FSWAP",
+      "symbol": "Fswap Token",
+      "logoURI": "https://factoryswap.xyz/favicon-32x32.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
       "address": "0xdAA587d25Cd67E18F7f041381B0c3c5c61dd496B",
       "name": "USDm",
       "symbol": "USD Monad",
