@@ -9,6 +9,14 @@
   "tokens": [
     {
       "chainId": 10143,
+      "address": "0xf3BE8c0348a56d56dd760a3B3583F8B91fD93c47",
+      "name": "Overnads",
+      "symbol": "Overnads",
+      "logoURI": "https://raw.githubusercontent.com/lineavv/picsme/main/uploader/overnads.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10143,
       "address": "0x8943eC46D62243E79e7E661Df7443a971b05Ea85",
       "name": "FSWAP",
       "symbol": "Fswap Token",
